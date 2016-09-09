@@ -13,4 +13,4 @@ Install instructions for brew - [http://brew.sh/](http://brew.sh/)
 
 **Installing hadoop, hive and pig** <br>
 $ brew install hadoop pig
-$ brew install hIVE
+$ brew install hive
