@@ -12,5 +12,5 @@ You will need to setup brew first and then install hadoop and related subsystems
 Install instructions for brew - [http://brew.sh/](http://brew.sh/)
 
 **Installing hadoop, hive and pig** <br>
-$ brew install hadoop pig
+$ brew install hadoop pig <br>
 $ brew install hive
