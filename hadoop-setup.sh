@@ -1,7 +1,6 @@
 #!/bin/bash
-# brew-hadoop-setup.sh, version 2.0
+# brew-hadoop-setup.sh, version 2.1
 # 
-# Run the script as root.
 # 
 # Info: Quickly setup dev hadoop environment using brew on mac. Contains basic 
 #       configuration for cluster mode deployment on a single node.
