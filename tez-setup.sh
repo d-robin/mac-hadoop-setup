@@ -18,6 +18,8 @@
 # Comment/Skip step 1 & 2 if tez is already compiled.
 # Run the script from the right directory
 
+#Step 0
+
 # Step 1: Download and extract
 wget http://apache.spinellicreations.com/tez/0.8.4/apache-tez-0.8.4-src.tar.gz
 tar xvzf apache-tez-0.8.4-src.tar.gz
